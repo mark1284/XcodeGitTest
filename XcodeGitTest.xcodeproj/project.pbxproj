@@ -38,21 +38,21 @@
 		3B3C048B156B91BD00D59586 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		3B3C048D156B91BD00D59586 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		3B3C048F156B91BD00D59586 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		3B3C0493156B91BD00D59586 /* XcodeGitTest-Info.plist */ = {isa = PBXFileReference; path = "XcodeGitTest-Info.plist"; sourceTree = "<group>"; };
+		3B3C0493156B91BD00D59586 /* XcodeGitTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "XcodeGitTest-Info.plist"; sourceTree = "<group>"; };
 		3B3C0495156B91BD00D59586 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		3B3C0497156B91BD00D59586 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		3B3C0499156B91BD00D59586 /* XcodeGitTest-Prefix.pch */ = {isa = PBXFileReference; path = "XcodeGitTest-Prefix.pch"; sourceTree = "<group>"; };
-		3B3C049A156B91BD00D59586 /* AppDelegate.h */ = {isa = PBXFileReference; path = AppDelegate.h; sourceTree = "<group>"; };
+		3B3C0499156B91BD00D59586 /* XcodeGitTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "XcodeGitTest-Prefix.pch"; sourceTree = "<group>"; };
+		3B3C049A156B91BD00D59586 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		3B3C049B156B91BD00D59586 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		3B3C049D156B91BD00D59586 /* ViewController.h */ = {isa = PBXFileReference; path = ViewController.h; sourceTree = "<group>"; };
+		3B3C049D156B91BD00D59586 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		3B3C049E156B91BD00D59586 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3B3C04A1156B91BD00D59586 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPhone.xib; sourceTree = "<group>"; };
 		3B3C04A4156B91BD00D59586 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/ViewController_iPad.xib; sourceTree = "<group>"; };
 		3B3C04AB156B91BD00D59586 /* XcodeGitTestTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeGitTestTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B3C04AC156B91BD00D59586 /* SenTestingKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SenTestingKit.framework; path = Library/Frameworks/SenTestingKit.framework; sourceTree = DEVELOPER_DIR; };
-		3B3C04B4156B91BD00D59586 /* XcodeGitTestTests-Info.plist */ = {isa = PBXFileReference; path = "XcodeGitTestTests-Info.plist"; sourceTree = "<group>"; };
+		3B3C04B4156B91BD00D59586 /* XcodeGitTestTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "XcodeGitTestTests-Info.plist"; sourceTree = "<group>"; };
 		3B3C04B6156B91BD00D59586 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		3B3C04B8156B91BD00D59586 /* XcodeGitTestTests.h */ = {isa = PBXFileReference; path = XcodeGitTestTests.h; sourceTree = "<group>"; };
+		3B3C04B8156B91BD00D59586 /* XcodeGitTestTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = XcodeGitTestTests.h; sourceTree = "<group>"; };
 		3B3C04B9156B91BD00D59586 /* XcodeGitTestTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XcodeGitTestTests.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
