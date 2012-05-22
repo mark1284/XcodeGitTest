@@ -26,6 +26,7 @@
     // Release any retained subviews of the main view.
     // some stuff
     // more stuff
+    // its a change from xcode!!
 }
 
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
